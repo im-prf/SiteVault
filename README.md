@@ -5,6 +5,8 @@
 One `.exe`. No installer, no sign-up, no cloud, no telemetry. Works offline, runs on Windows 10 and 11, 32-bit and 64-bit.
 
 > This repository hosts the **downloadable application only**. It contains no source code. Builds are produced from a private source tree; the release assets here are the finished program.
+>
+> GitHub also attaches two auto-generated files, **`Source code (zip)`** and **`Source code (tar.gz)`**, to every release. They are not the app: each one contains a single short note, because there is no source code to hand out. The only files that are the application are the ones listed on the [release page](../../releases/latest).
 
 📥 **[Download the latest release](../../releases/latest)** · `SiteVault-5.0.0-portable.zip`
 
