@@ -1,0 +1,27 @@
+SiteVault — proprietary freeware licence
+=========================================
+
+Copyright (c) 2026 SiteVault. All rights reserved.
+
+This repository distributes compiled builds of SiteVault only. The source
+code is not published, and nothing here grants any right to it.
+
+You may:
+  * download and run the official builds on any number of computers, at
+    home or at work;
+  * pass the unmodified build, exactly as downloaded from this repository,
+    to other people;
+  * use the app's export features on your own data.
+
+You may not:
+  * sell, rent or sublicense SiteVault, or bundle it into a paid product;
+  * redistribute modified builds, or builds obtained from anywhere other
+    than this official repository;
+  * remove or alter the copyright, author or licence notices;
+  * present SiteVault, or a modified copy of it, as your own work.
+
+No warranty. SiteVault is provided "as is", without warranty of any kind.
+Always keep your own backups of the data file.
+
+Bug reports, questions and ideas are welcome — see the README for contact
+details.

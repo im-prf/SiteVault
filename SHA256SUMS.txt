@@ -1,0 +1,4 @@
+SHA256 (SiteVault-5.0.0-portable.zip) = d818e9521f0f763fda66c729a43232dd2210a9653d3a07cfcf6f05d766db40a2
+SHA256 (SiteVault.exe) = 08cf0db692b87b616ddd1d8b8b9f1a56ab56b547fdf09d3cf8950ccc22c45926
+
+SiteVault 5.0.0 - portable build for Windows 10 and 11.
